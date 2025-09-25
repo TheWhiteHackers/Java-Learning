@@ -13,7 +13,7 @@ to inherit from a class use "extends"
 ex. class Car (superclass) -> class Car extends Vehicle (subclass)
 
 */
-
+////////////////////////////////////////////////////////////////////////////////
 /* 
 POLYMORPHSM
 
@@ -26,7 +26,7 @@ ex. class Animal w/ animalSound() -> class Pig extends Animal
 
 
 */
-
+////////////////////////////////////////////////////////////////////////////////
 /* 
 ARRAYLIST
 
@@ -50,7 +50,7 @@ you can also sort the array numerically and alphabetically
 
 
 */
-
+////////////////////////////////////////////////////////////////////////////////
 /*
 STACKS
 
@@ -70,7 +70,7 @@ Linear data structure that follows the Last in First Out (LIFO) principle
     s.search() - determines whether an obj exists in the stack and returns the position, if element is not found returns -1
 
 */
-
+////////////////////////////////////////////////////////////////////////////////
 /*
 QUEUE
 
@@ -90,7 +90,7 @@ Elements are proccess in the order they were insterted, First In First Out (FIFO
 
 
 */
-
+////////////////////////////////////////////////////////////////////////////////
 /*
 SUPPLIERS
 
@@ -104,7 +104,7 @@ You don't need to suppy a value but you get a result
     System.out.println(randomValue.get());
 
 */
-
+////////////////////////////////////////////////////////////////////////////////
 /*
 HASHMAPS
 
